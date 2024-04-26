@@ -12,7 +12,7 @@
 
 - 📫 How to reach me *yc9891966@gmail.com*
 
-- ⚡ Fun fact *eat();sleep();code();repeat();*
+- ⚡ Fun fact  *eat();sleep();code();repeat(); *
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

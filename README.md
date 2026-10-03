@@ -9,7 +9,7 @@ Data Scientist / AI and ML Engineer in Gurugram. I build autonomous LLM agents a
 
 *Build it, break it, learn from it, then build it better.*
 
-<img src="assets/badge-education.svg" alt="education: B.Tech CSE Data Science 2027"> <a href="https://github.com/yatharthchopra2424/Bajaj-Policy-MVP-Rag"><img src="assets/badge-hackathon.svg" alt="hackathon: Bajaj RAG hackathon finalist"></a> <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B89CA5B081D2352891C8E45F01B9400EF6363018496EC3AD65230ACF60C44E9A"><img src="assets/badge-certified.svg" alt="certified: Oracle Data Science Professional"></a> <img src="assets/badge-open-to.svg" alt="open to: data science and AI roles"> <img src="assets/badge-based-in.svg" alt="based in: Gurugram">
+<img src="assets/badge-education.svg" alt="education: B.Tech CSE Data Science 2027"> <a href="https://github.com/yatharthchopra2424/Bajaj-Policy-MVP-Rag"><img src="assets/badge-hackathon.svg" alt="hackathon: Bajaj RAG hackathon finalist"></a> <img src="assets/badge-finalist.svg" alt="finalist: FedEx SMART Challenge, IIT Madras"> <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B89CA5B081D2352891C8E45F01B9400EF6363018496EC3AD65230ACF60C44E9A"><img src="assets/badge-certified.svg" alt="certified: Oracle Data Science Professional"></a> <img src="assets/badge-open-to.svg" alt="open to: data science and AI roles"> <img src="assets/badge-based-in.svg" alt="based in: Gurugram">
 
 ## How I work
 
@@ -24,6 +24,11 @@ I like building agents that can work on their own. They plan, use tools, check t
 - **[Bajaj Policy RAG](https://github.com/yatharthchopra2424/Bajaj-Policy-MVP-Rag)** `FastAPI` `FAISS` `LangChain` `React`<br>RAG over insurance PDFs, Excel files and scans with hybrid search. Hackathon finalist.
 
 More: [Scheme Intelligence Pipeline](https://github.com/yatharthchopra2424/Schemes_scrapper), [HealthAI Directory](https://github.com/yatharthchopra2424/EY-Project-Healthcare-Provider-Directory-AI), [Velorium](https://github.com/yatharthchopra2424/employee-attrition-prediction), [FloatCast AI](https://github.com/yatharthchopra2424/floatcast-ai), [LexiPro](https://github.com/yatharthchopra2424/LEXIPRO), and the rest in my [repositories](https://github.com/yatharthchopra2424?tab=repositories).
+
+## Hackathons
+
+- **Bajaj RAG hackathon**: finalist, with the [Bajaj Policy RAG](https://github.com/yatharthchopra2424/Bajaj-Policy-MVP-Rag) project above.
+- **FedEx SMART Challenge, IIT Madras** (Dec 2024): finalist among 2,500+ participants, with a logistics solution targeting 25% lower emissions.
 
 ## Experience
 
@@ -54,14 +59,14 @@ Latest:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
-  <img src="assets/contributions-light.svg" alt="Contribution graph: 607 contributions in the last year." width="100%">
+  <img src="assets/contributions-light.svg" alt="Contribution graph: 608 contributions in the last year." width="100%">
 </picture>
 
-**607** contributions in the last year, on **119** active days. Busiest month: Dec 2025 (97 contributions). Snapshot from 3 Oct 2026. [How GitHub counts contributions](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)
+**608** contributions in the last year, on **119** active days. Busiest month: Dec 2025 (97 contributions). Snapshot from 3 Oct 2026. [How GitHub counts contributions](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Activity overview: 461 commits, 64 pull requests, 1 code review and 0 issues." width="100%">
+  <img src="assets/activity-light.svg" alt="Activity overview: 508 commits, 64 pull requests, 1 code review and 0 issues." width="100%">
 </picture>
 
 Most active public repositories, by commits: [AIJobSearchAgent](https://github.com/agilepartners-ai/AIJobSearchAgent) (86), [Notera-Health-Ai](https://github.com/SA-Medicine/Notera-Health-Ai) (74), [AIJobSearchAgent-gcp](https://github.com/agilepartners-ai/AIJobSearchAgent-gcp) (49), [GridCast](https://github.com/Team-NAVGATI/GridCast) (46), [PURAVIDA](https://github.com/yatharthchopra2424/PURAVIDA) (41).

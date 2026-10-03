@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="293" height="24" viewBox="0 0 293 24" role="img" aria-label="certified: Oracle Data Science Professional" font-family="Segoe UI, system-ui, -apple-system, Helvetica, Arial, sans-serif">
+<title>certified: Oracle Data Science Professional</title>
+<rect width="73" height="24" rx="4" fill="#1F2937"/>
+<rect x="73" width="220" height="24" rx="4" fill="#0369A1"/>
+<rect x="73" width="8" height="24" fill="#0369A1"/>
+<text x="36.5" y="16" text-anchor="middle" font-size="11" fill="#FFFFFF">certified</text>
+<text x="183.0" y="16" text-anchor="middle" font-size="11" font-weight="600" fill="#FFFFFF">Oracle Data Science Professional</text>
+</svg>

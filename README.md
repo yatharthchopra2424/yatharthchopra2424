@@ -9,6 +9,8 @@ Data Scientist / AI and ML Engineer in Gurugram. I build autonomous LLM agents a
 
 *Build it, break it, learn from it, then build it better.*
 
+**Open to roles.** [LinkedIn](https://www.linkedin.com/in/yatharth-chopra--/) · [Email](mailto:yatharthchopra24@gmail.com)
+
 <img src="assets/badge-education.svg" alt="education: B.Tech CSE Data Science 2027"> <a href="https://github.com/yatharthchopra2424/Bajaj-Policy-MVP-Rag"><img src="assets/badge-hackathon.svg" alt="hackathon: Bajaj RAG hackathon finalist"></a> <img src="assets/badge-finalist.svg" alt="finalist: FedEx SMART Challenge, IIT Madras"> <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B89CA5B081D2352891C8E45F01B9400EF6363018496EC3AD65230ACF60C44E9A"><img src="assets/badge-certified.svg" alt="certified: Oracle Data Science Professional"></a> <img src="assets/badge-open-to.svg" alt="open to: data science and AI roles"> <img src="assets/badge-based-in.svg" alt="based in: Gurugram">
 
 ## How I work
@@ -55,27 +57,11 @@ Latest:
 - 5 Apr 2026: [GridCast](https://github.com/Team-NAVGATI/GridCast/pull/42), fix: un-ignore lib folder and stage frontend lib scripts
 - 1 Jul 2025: [MyJobSearchAgent](https://github.com/agilepartners-ai/MyJobSearchAgent/pull/63), feat: Add Upgrade Pro button to AI Interview page navbar
 
-## Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
-  <img src="assets/contributions-light.svg" alt="Contribution graph: 608 contributions in the last year." width="100%">
-</picture>
-
-**608** contributions in the last year, on **119** active days. Busiest month: Dec 2025 (97 contributions). Snapshot from 3 Oct 2026. [How GitHub counts contributions](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Activity overview: 508 commits, 64 pull requests, 1 code review and 0 issues." width="100%">
-</picture>
-
-Most active public repositories, by commits: [AIJobSearchAgent](https://github.com/agilepartners-ai/AIJobSearchAgent) (86), [Notera-Health-Ai](https://github.com/SA-Medicine/Notera-Health-Ai) (74), [AIJobSearchAgent-gcp](https://github.com/agilepartners-ai/AIJobSearchAgent-gcp) (49), [GridCast](https://github.com/Team-NAVGATI/GridCast) (46), [PURAVIDA](https://github.com/yatharthchopra2424/PURAVIDA) (41).
-
 ## Tools
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg">
-  <img src="assets/tools-light.svg" alt="Tools: LangChain, NVIDIA NIM, Gemini, Hugging Face, Python, pandas, NumPy, scikit-learn, Jupyter, Plotly, PostgreSQL, FastAPI, Node.js, Next.js, React, TypeScript, Tailwind CSS, Selenium, Streamlit, Google Cloud, Firebase, Docker, Git, GitHub Actions, Vercel." width="100%">
+  <img src="assets/tools-light.svg" alt="Tools: LangChain, NVIDIA NIM, Gemini, Hugging Face, Python, pandas, NumPy, scikit-learn, Jupyter, Plotly, PostgreSQL, FastAPI, Node.js, Next.js, React, TypeScript, Tailwind CSS, Selenium, Streamlit, Google Cloud, Firebase, Docker, Git, GitHub Actions, Vercel." width="392">
 </picture>
 
 Also: SQL, Power BI, Tableau, Pinecone, AWS EC2, XGBoost, LightGBM, SHAP, Matplotlib and Seaborn.
@@ -97,7 +83,18 @@ Building autonomous agents with proper evals. Looking for data scientist, AI eng
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/yatharth-chopra--/) · [Email](mailto:yatharthchopra24@gmail.com)
+<p>
+<a href="https://www.linkedin.com/in/yatharth-chopra--/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-linkedin-dark.svg">
+  <img src="assets/contact-linkedin-light.svg" alt="LinkedIn: linkedin.com/in/yatharth-chopra--">
+</picture></a>
+<a href="mailto:yatharthchopra24@gmail.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-email-dark.svg">
+  <img src="assets/contact-email-light.svg" alt="Email: yatharthchopra24@gmail.com">
+</picture></a>
+</p>
+
+Open to data scientist, AI engineer and LLM engineer roles.
 <!-- portfolio link goes here when the site is ready -->
 
 Last updated October 2026.

@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Yatharth Chopra, Data Scientist and AI and ML Engineer. I build autonomous LLM agents and data systems." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-v2-dark.svg">
+  <img src="assets/banner-v2-light.svg" alt="Yatharth Chopra, Data Scientist and AI and ML Engineer. I build autonomous LLM agents and data systems." width="100%">
 </picture>
 
 # Yatharth Chopra
@@ -60,8 +60,8 @@ Latest:
 ## Tools
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg">
-  <img src="assets/tools-light.svg" alt="Tools: LangChain, NVIDIA NIM, Gemini, Hugging Face, Python, pandas, NumPy, scikit-learn, Jupyter, Plotly, PostgreSQL, FastAPI, Node.js, Next.js, React, TypeScript, Tailwind CSS, Selenium, Streamlit, Google Cloud, Firebase, Docker, Git, GitHub Actions, Vercel." width="392">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tools-v2-dark.svg">
+  <img src="assets/tools-v2-light.svg" alt="Tools: LangChain, NVIDIA NIM, Gemini, Hugging Face, Python, pandas, NumPy, scikit-learn, Jupyter, Plotly, PostgreSQL, FastAPI, Node.js, Next.js, React, TypeScript, Tailwind CSS, Selenium, Streamlit, Google Cloud, Firebase, Docker, Git, GitHub Actions, Vercel." width="392">
 </picture>
 
 Also: SQL, Power BI, Tableau, Pinecone, AWS EC2, XGBoost, LightGBM, SHAP, Matplotlib and Seaborn.
